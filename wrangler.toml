@@ -1,0 +1,4 @@
+# Top-level configuration
+name = "rss"
+main = "src/worker.js"
+compatibility_date = "2022-07-12"
